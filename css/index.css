@@ -1,7 +1,20 @@
 h1{
     color: #0f04ead4;
+    text-align: center;
+    padding: 30px, 30px,30px,30px;
+    position: fixed; 
 }
 
 .sidelink{
+    background-color: #e8faf8;
+    padding: 10px,10px,10px,50px;
+    line-height: 50px;
+    position: fixed;
     width: 170px;
+    top: 140px;
+}
+
+.contents{
+    padding-top: 130px;
+    padding-left: 190px;
 }
