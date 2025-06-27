@@ -18,3 +18,23 @@ h1{
     padding-top: 130px;
     padding-left: 190px;
 }
+
+.table th{
+    background-color: #def8ff;
+}
+
+th{
+    background-color: #e6eef0;
+}
+
+#name1{
+    background-color: #abedff;
+}
+
+#name2{
+    background-color: #78e2ff;
+}
+
+#name3{
+    background-color: #44d5fc;
+}
