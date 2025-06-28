@@ -5,3 +5,13 @@ h1{
 .sidelink{
     width: 170px;
 }
+h1{
+    color: #0f04ead4;
+    border: solid 1px #0f04ead4;
+    padding: 5px;
+}
+
+h2{
+    border-bottom: solid 3px #0000ff;
+    background-color: #eeeeff
+}
