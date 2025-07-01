@@ -1,8 +1,16 @@
 h1{
     color: #0f04ead4;
+    border: solid 1px #0f04ead4;
     text-align: center;
     padding: 30px, 30px,30px,30px;
+    padding: 5px;
     position: fixed; 
+}
+
+.main{
+    width: 80px;
+    height: 130px;
+    background-color: white;
 }
 
 .sidelink{
@@ -11,13 +19,6 @@ h1{
     line-height: 50px;
     position: fixed;
     width: 170px;
-
-
-}
-h1{
-    color: #0f04ead4;
-    border: solid 1px #0f04ead4;
-    padding: 5px;
 }
 
 h2{
@@ -27,8 +28,8 @@ h2{
 }
 
 .contents{
-    padding-top: 130px;
     padding-left: 190px;
+    line-height: 30px;
 }
 
 .table th{
@@ -55,14 +56,4 @@ th{
 #name3{
     background-color: #44d5fc;
 
-}
-h1{
-    color: #0f04ead4;
-    border: solid 1px #0f04ead4;
-    padding: 5px;
-}
-
-h2{
-    border-bottom: solid 3px #0000ff;
-    background-color: #eeeeff
 }
