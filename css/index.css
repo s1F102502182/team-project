@@ -46,13 +46,15 @@ h2{
 
 .table th{
     background-color: #def8ff;
+    width: 120px;
+    height: 80px;
 }
 
 th{
     background-color: #e6eef0;
 }
 
-#squ{
+.squ{
     width: 180px;
     height: 80px;
 }
