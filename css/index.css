@@ -5,7 +5,9 @@ h1{
     padding: 30px, 30px,30px,30px;
     padding: 5px;
     position: fixed; 
-    
+    display: inline-block;      /* ブロック幅だと横いっぱいに伸びるので */
+  background-color: #fff;
+  z-index: 10;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
@@ -33,7 +35,8 @@ h2{
     background-color: #eeeeff
     top: 140px;
     border-bottom: solid 3px #0000ff;
-    background-color: #eeeeff
+    background-color: #eeeeff;
+
 }
 
 .contents{
