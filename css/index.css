@@ -5,6 +5,15 @@ h1{
     padding: 30px, 30px,30px,30px;
     padding: 5px;
     position: fixed; 
+    display: inline-block;      /* ブロック幅だと横いっぱいに伸びるので */
+  background-color: #fff;
+  z-index: 10;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 30px;
+    margin-left: 30px;
 }
 
 .main{
@@ -26,7 +35,8 @@ h2{
     background-color: #eeeeff
     top: 140px;
     border-bottom: solid 3px #0000ff;
-    background-color: #eeeeff
+    background-color: #eeeeff;
+
 }
 
 .contents{
@@ -36,13 +46,15 @@ h2{
 
 .table th{
     background-color: #def8ff;
+    width: 120px;
+    height: 80px;
 }
 
 th{
     background-color: #e6eef0;
 }
 
-#squ{
+.squ{
     width: 180px;
     height: 80px;
 }
