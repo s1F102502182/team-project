@@ -17,3 +17,8 @@ h2{
     position: fixed;
     width: 170px;
 }
+
+.contents{
+    padding-left: 190px;
+    line-height: 30px;
+}
